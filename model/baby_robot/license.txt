@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baby Robot // 3Dcoat
+* source:	https://sketchfab.com/3d-models/baby-robot-3dcoat-eae164d3570144bfb86a2cc03e73ceed
+* author:	spliter (https://sketchfab.com/spliter)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baby Robot // 3Dcoat" (https://sketchfab.com/3d-models/baby-robot-3dcoat-eae164d3570144bfb86a2cc03e73ceed) by spliter (https://sketchfab.com/spliter) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
